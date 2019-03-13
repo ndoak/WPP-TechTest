@@ -25,7 +25,7 @@ for ex:
 ```
 http://127.0.0.1:8080
 ```
-attach mediaId of the media you would like to watch
+attach mediaId of the media you would like to watch, for ex:
 ```
 http://127.0.0.1:8080/?mediaId=1630723954
 ```
