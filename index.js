@@ -4,8 +4,8 @@ const getMediaIdFromUrl = () => {
 }
 
 const fetchData = () => {
-  var baseUrl = 'https://www.cbc.ca/bistro/order?mediaId='
-  var mediaUrl = baseUrl + getMediaIdFromUrl();
+  const baseUrl = 'https://www.cbc.ca/bistro/order?mediaId='
+  const mediaUrl = baseUrl + getMediaIdFromUrl();
   fetch(mediaUrl)
       .then((response) => {
           if (response.status !== 200) {
