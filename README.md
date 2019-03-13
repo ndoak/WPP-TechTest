@@ -31,7 +31,8 @@ http://127.0.0.1:8080/?mediaId=1630723954
 ```
 
 ## Running the tests
-Special note: Tests aren't currently working, I ran out of time to figure out how to mock window but I thought you might still want to see what a test would look like
+Special note: Tests aren't currently working, I ran out of time to figure out how to mock window but I thought you might still want to see what one of my tests would look like
+
 To run tests
 
 ```
@@ -40,7 +41,7 @@ npm run tests
 
 
 ## Authors
-* **Natalie Doak** - 
+* **Natalie Doak** 
 
 
 
