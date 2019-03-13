@@ -1,0 +1,60 @@
+{
+    "items": [
+      {
+        "title": "The internet goes multimedia",
+        "description": "Forget numbers and letters — now you can get music and video on the web!\r\n\r\n\"Good Enough\" and \"Hold On\" by Sarah McLachlan, Nettwerk Productions, published by Tyde Music. \"Hold On\" video directed by Tony Pantages.",
+        "showName": "Digital Archives",
+        "categories": [
+          {
+            "name": "Digital Archives/Science and Technology/Computers",
+            "scheme": "",
+            "label": ""
+          }
+        ],
+        "thumbnail": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/709/467/internet_91_edit.jpg",
+        "hostImage": null,
+        "chapters": [
+          {
+            "startTime": 0,
+            "name": "Digital Archives"
+          }
+        ],
+        "duration": 433.234,
+        "airDate": 784789200000,
+        "addedDate": 1507045747000,
+        "contentArea": "Digital Archives",
+        "season": "",
+        "episode": "",
+        "type": "",
+        "region": "",
+        "sport": "",
+        "genre": "Other",
+        "captions": false,
+        "token": "ch3swahq_fLs",
+        "pageUrl": "http://www.cbc.ca/player/play/1630723954/",
+        "adUrl": "https://as-sec.casalemedia.com/playlist?ix_s=198408&ix_u=<%= ix_u %>&ix_ca=%7B%22protocols%22%3A%5B2%2C3%2C5%2C6%5D%2C%22mimes%22%3A%5B%22video%2Fmp4%22%5D%2C%22apiList%22%3A%5B2%5D%2C%22size%22%3A%22320x240%22%2C%22maxAdDuration%22%3A30%2C%22timeout%22%3A1000%2C%22brandExclusion%22%3A1%7D&ix_vt=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads&sz=320x240&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=<%= url %>&description_url=[description_url]&correlator=[timestamp]&ad_rule=1&cmsid=2469258&vid=1630723954&iu=5876/archives/tech",
+        "isAudio": false,
+        "isVideo": true,
+        "isLive": false,
+        "isOnDemand": true,
+        "isDRM": false,
+        "isBlocked": false,
+        "isDAI": false,
+        "embeddedVia": false,
+        "id": "1630723954",
+        "idType": "mediaId",
+        "assetDescriptors": [
+          {
+            "loader": "PlatformLoader",
+            "key": "https://link.theplatform.com/s/ExhSPC/media/guid/2655402169/1630723954/meta.smil?feed=Player%20Selector%20-%20Prod&format=smil&mbr=true&manifest=m3u"
+          },
+          {
+            "loader": "SimpleURLLoader",
+            "key": "http://link.theplatform.com/s/ExhSPC/media/guid/2655402169/1630723954/?formats=MPEG4",
+            "mimeType": "video/mp4"
+          }
+        ]
+      }
+    ],
+    "errors": []
+  }

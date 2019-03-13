@@ -1,0 +1,21 @@
+{
+  "name": "wpp-teamtechtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "babel": "babel --presets es2015 index.js -o main.bundle.js",
+    "tests": "babel-node node_modules/.bin/jasmine",
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "http-server": "^0.11.1",
+    "jasmine": "^3.3.1"
+  }
+}
